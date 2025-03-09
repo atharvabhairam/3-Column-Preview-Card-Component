@@ -14,7 +14,7 @@ This project is a **3-Column Preview Card Component** built as part of a challen
 
 You can view the live demo of this project [here](https://resonant-kitten-50cdf8.netlify.app/)
 
-## Screenshots
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/22ecfa27-2db3-4c8c-b4b9-db13a1060ca2)
 
